@@ -41,6 +41,8 @@ This voicebank is a multipitch (F3, A3, C4, Power D4, Yelling F4, Falsetto F4) V
 
 To get the intended tone of the voice, you may use g3-g5 flags.
 
+The OTO is by ヴィラン.
+
 ### Expressions
 >**NORMAL:** The default voice. 
 <br>>**Suffix:** No suffix.
