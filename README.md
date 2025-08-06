@@ -3,7 +3,7 @@
 
 Thank you for using **LIEE VOLUME UP!**. If you make a cover with **LIEE VOLUME UP!**, please tag @ChulieChu on Twitter!
 <p>
-To download, navigate to <b>Releases</b> on the right-hand side and choose <b>Adachi_REY-CV-v1.0</b>.
+To download, navigate to <b>Releases</b> on the right-hand side and choose <b>LIEE VOLUME UP! VCV v1.0</b>.
 
 <p align="center">
 <img height="600" alt="LIEE_VOLUMEUP_2025" src="https://github.com/user-attachments/assets/b8e330c3-0e08-4cdf-802f-9b2228fbb31a" />
