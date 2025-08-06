@@ -1,4 +1,4 @@
-# LIEE-VOLUME-UP-UTAU
+# LIEE VOLUME UP! VCV JP UTAU
 <i> VCV JP UTAU voicebank by julieraptor</i>
 
 Thank you for using **LIEE VOLUME UP!**. If you make a cover with **LIEE VOLUME UP!**, please tag @ChulieChu on Twitter!
