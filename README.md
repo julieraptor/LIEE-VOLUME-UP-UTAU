@@ -31,8 +31,6 @@ To download, navigate to <b>Releases</b> on the right-hand side and choose <b>LI
 > One of LIEE's many stage outfits when performing in concerts.<p>
 > LIEE is a singer from the future where idols can use cybernetic augmentations and the help of artificial intelligence to keep making music beyond human limits.
 
-Do NOT claim any part of this voicebank as your own. Do NOT edit/pitch up/down any sound files and claim as your own.
-
 ### Voicebank Details
 
 This voicebank has a sharp, powerful tone.
