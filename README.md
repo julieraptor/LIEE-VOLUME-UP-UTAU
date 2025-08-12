@@ -90,51 +90,7 @@ This voicebank utilizes vocal fry, glottal stops, and ending breaths with specif
 
 # 【TERMS OF USE】
 
-### Attribution
-- When publishing work using this voice model/voicebank, you are required to state the name of this voice model/voicebank.
-- It is necessary to state the name of this voice model/voicebank's author.
-- When attributing the name or author of this voice model/voicebank, you must write the names exactly as written above. 
-- You cannot call the voice model/voicebank by any other name, nor can you attribute the voice model/voicebank to any other author.
-
-### Usage Content
-
-- You are free to create sexual content.
-- You are free to create violent content.
-- Do not create political content.
-- Do not create religious content.
-
-**The following types of content are unconditionally prohibited:**
- - Criminal or illegal content 
- - Explicit underage sexual content 
- - Bigotry and hateful content
- 
- YOU MUST NOT USE THIS VOICE MODEL/VOICEBANK TO IMPERSONATE THE VOICE PROVIDER AND/OR CAUSE HARM TO THEM OR OTHERS IN ANY WAY.
-
-### Character and Artwork
-
-Published work using the voice model/voicebank may or may not include visual depictions of the voice model/voicebank character.
-
-Artwork does not need to depict the voice model/voicebank character. This voice model can be used in conjunction with artwork of other characters.
-
-Existing artwork of the voice model/voicebank character cannot be used without prior permission from the individual artists.
-
-Derivatives and heavily-inspired characters are allowed. (Inspired designs must be credited to Julieraptor.)
-
-### Commercial Use
-Contact the author for individual approval to use this voice model/voicebank commercially.
-
-### Editing
-You are free to edit the audio files of the inferences from this voice model/voicebank.
-
-You must not use inferences from this model/voicebank to create a new voice model/voicebank or singing synthesizer.
-
-You cannot use this voice model/voicebank in any other singing synthesizer. Please contact the author if you would like to port this voice model/voicebank to another singing synthesizer program.
-
-### Redistribution
-
-Do not redistribute any part of this voice model/voicebank. Link to this page to show where to download CHIP.
-
-You are free to share rendered singing vocals created with this voice model/voicebank.
+[Please review the full Terms of Use here.](https://docs.google.com/document/d/1t13WKc7VA2Q3G_MppznbAwhl3vLIL2MNPyjVN3kWDDg/edit?usp=sharing)
 
 ### Disclaimer
 Julieraptor holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voice model/voicebank or character.
